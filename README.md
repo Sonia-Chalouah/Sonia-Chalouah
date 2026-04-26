@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonia Chalouah</h1>
 
 <h3 align="center">
-Software Engineering Student | Full-Stack Developer | Passionate about Web Development, DevOps and Emerging Technologies
+Software Engineering Student | Full-Stack Developer | AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
@@ -12,12 +12,13 @@ Software Engineering Student | Full-Stack Developer | Passionate about Web Devel
 
 ## 👩‍💻 About Me
 
-I am a Software Engineering student passionate about building modern, scalable and user-friendly applications.  
-I enjoy learning new technologies, working on real-world projects, and improving my skills in full-stack development, DevOps, and software architecture.
+I am a Software Engineering student passionate about building modern, scalable, and user-friendly applications.  
+I enjoy learning new technologies, solving real-world problems, and developing innovative digital solutions.
 
 - 🎓 Software Engineering Student
-- 💻 Interested in Full-Stack Development, DevOps and Cloud Technologies
-- 🚀 Always learning and exploring new technologies
+- 💻 Interested in Full-Stack Development, DevOps, Cloud Technologies, and Artificial Intelligence
+- 🌱 Currently learning **Data Science, Machine Learning, Deep Learning, Computer Vision, and Generative AI**
+- 🚀 Passionate about continuous learning and building impactful projects
 - 📫 Reach me at: **sonia.chalouah@esprit.tn**
 
 ---
@@ -46,7 +47,17 @@ I enjoy learning new technologies, working on real-world projects, and improving
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### Tools and Platforms
+### AI, Data Science & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### DevOps & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,firebase,androidstudio" />
 </p>
@@ -55,6 +66,19 @@ I enjoy learning new technologies, working on real-world projects, and improving
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" />
 </p>
+
+---
+
+## 📌 Featured Interests
+
+- Full-Stack Web Development
+- Artificial Intelligence
+- Data Science
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- DevOps and Cloud Technologies
 
 ---
 
