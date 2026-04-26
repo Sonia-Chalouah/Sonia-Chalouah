@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonia Chalouah</h1>
 
 <h3 align="center">
-Software Engineering Student | Full-Stack Developer | AI & Data Science Enthusiast
+Fresh Software Engineering Graduate | Full-Stack Developer | Passionate about AI, Data Science 
 </h3>
 
 <p align="center">
@@ -12,10 +12,10 @@ Software Engineering Student | Full-Stack Developer | AI & Data Science Enthusia
 
 ## 👩‍💻 About Me
 
-I am a Software Engineering student passionate about building modern, scalable, and user-friendly applications.  
+I am a Software Engineering passionate about building modern, scalable, and user-friendly applications.  
 I enjoy learning new technologies, solving real-world problems, and developing innovative digital solutions.
 
-- 🎓 Software Engineering Student
+- 🎓 Software Engineering
 - 💻 Interested in Full-Stack Development, DevOps, Cloud Technologies, and Artificial Intelligence
 - 🌱 Currently learning **Data Science, Machine Learning, Deep Learning, Computer Vision, and Generative AI**
 - 🚀 Passionate about continuous learning and building impactful projects
